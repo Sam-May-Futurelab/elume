@@ -1,6 +1,6 @@
-# ✨ Eluma – Premium Skincare Landing Page
+# ✨ Elume – Premium Skincare Landing Page
 
-Eluma is a sophisticated, scroll-driven skincare landing page built with **Next.js 15** and **Framer Motion**. Featuring modern aesthetics, liquid morphing effects, and immersive animations, it's designed to showcase premium beauty brands with unparalleled elegance.
+Elume is a sophisticated, scroll-driven skincare landing page built with **Next.js 15** and **Framer Motion**. Featuring modern aesthetics, liquid morphing effects, and immersive animations, it's designed to showcase premium beauty brands with unparalleled elegance.
 
 ## 🌿 Live Demo
 
